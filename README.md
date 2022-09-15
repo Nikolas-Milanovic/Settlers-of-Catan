@@ -1,8 +1,17 @@
 # Settlers-of-Catan
 
-Note: Unfortunetly due to this being a common project used for this course I'm unable to share the full implementation.
+To play the game on a Mac or Linux computer:
+* Dowload the 'Catan_Executable_(Mac|Linux)' folder 
+* In terminal navigate to the 'Catan_Executable_(Mac|Linux)' folder location
+* Run the following command:  **./constructor**
+* If you see ./constructor: Permission denied, Run: chmod u+x ./constructor
 
-This was my OOP programing course's final project, where we received a 96%. It's based on the board game Settlers of Catan, except with a few adjustments to fit the University of Waterloo theme. The project is built with C++ and is played via the command line. 
+Note: Unfortunetly due to this being a common project used for this course I'm unable to share the source code.
+
+
+This was my OOP programing course's final project, where we received a 96%. It's based on the board game Settlers of Catan, except with a few adjustments to fit the University of Waterloo theme. The project is built with C++ and is played via the command line, example:
+
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/59632554/190294915-d3a4d403-931d-4aa6-954a-872ca2664c6f.png">
 
 For this project I worked in a group of 3 where we used Git to manage our workflow. 
 
