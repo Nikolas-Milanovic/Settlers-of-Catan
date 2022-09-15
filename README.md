@@ -1,6 +1,8 @@
 # Settlers-of-Catan
 
-This was my OOP programing course's final project, where we received a 96%. It's based on the board game Settlers of Catan, except with a few adjustments to fit the University of Waterloo theme. 
+Note: Unfortunetly due to this being a common project used for this course I'm unable to share the full implementation.
+
+This was my OOP programing course's final project, where we received a 96%. It's based on the board game Settlers of Catan, except with a few adjustments to fit the University of Waterloo theme. The project is built with C++ and is played via the command line. 
 
 For this project I worked in a group of 3 where we used Git to manage our workflow. 
 
