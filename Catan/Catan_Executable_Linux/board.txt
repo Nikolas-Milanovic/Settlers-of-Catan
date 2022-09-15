@@ -1,0 +1,41 @@
+                          |XX|--XY--|XX|
+                            |         |
+                           XY   TP   XY
+                            |TT|
+                |XX|--XY--|XX|  RV  |XX|--XY--|XX|
+                  |         |GS  |         |
+                 XY   TP   XY        XY   TP   XY
+                  |TT|         |TT|
+      |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|
+        |         |GS  |         |GS  |         |
+       XY   TP   XY        XY   TP   XY        XY   TP   XY
+        |TT|         |TT|         |TT|
+      |XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|
+        |GS  |         |GS  |         |GS  |
+       XY        XY   TP   XY        XY   TP   XY        XY
+        |         |TT|         |TT|         |
+      |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|
+        |         |GS  |         |GS  |         |
+       XY   TP   XY        XY   TP   XY        XY   TP   XY
+        |TT|         |TT|         |TT|
+      |XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|
+        |GS  |         |GS  |         |GS  |
+       XY        XY   TP   XY        XY   TP   XY        XY
+        |         |TT|         |TT|         |
+      |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|
+        |         |GS  |         |GS  |         |
+       XY   TP   XY        XY   TP   XY        XY   TP   XY
+        |TT|         |TT|         |TT|
+      |XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|
+        |GS  |         |GS  |         |GS  |
+       XY        XY   TP   XY        XY   TP   XY        XY
+        |         |TT|         |TT|         |
+      |XX|--XY--|XX|  RV  |XX|--XY--|XX|  RV  |XX|--XY--|XX|
+                  |GS  |         |GS  |
+                 XY        XY   TP   XY        XY
+                  |         |TT|         |
+                |XX|--XY--|XX|  RV  |XX|--XY--|XX|
+                            |GS  |
+                           XY        XY
+                            |         |
+                          |XX|--XY--|XX|
