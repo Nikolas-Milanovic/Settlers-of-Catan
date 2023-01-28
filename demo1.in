@@ -1,0 +1,63 @@
+load
+roll
+4
+test
+status
+build-road 50
+board
+build-road 99
+build-road -9
+build-road 33
+build-road 41
+board-road 39
+build-road 31
+build-road 39
+build-road 48
+next
+load
+roll
+test
+-9
+99
+5
+status
+build-road 65
+next
+load
+roll
+6
+save test.txt
+improve 45
+improve 25
+improve 25
+next
+load
+roll
+8
+next
+roll
+3
+build-res 30
+improve 28
+status
+board
+build-road 36
+build-res 27
+build-road 50
+build-res 48
+build-res 40
+yes
+1
+5
+11
+22
+33
+44
+25
+13
+load
+roll
+7
+8
+7
+status

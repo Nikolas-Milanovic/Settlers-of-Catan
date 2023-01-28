@@ -1,0 +1,64 @@
+20
+3
+8
+1
+25
+37
+42
+13
+44
+roll
+11
+next
+roll
+11
+next
+roll
+11
+next
+roll
+11
+next
+roll
+11
+next
+roll
+11
+next
+roll
+11
+next
+roll
+11
+status
+build-road 10
+build-road 1
+status
+build-road 52
+build-road 52
+build-road 48
+build-road 56 
+board
+build-res 38
+build-res 44
+improve 44
+improve 32
+status
+build-res 32
+board
+status
+improve 32
+status
+improve 32
+status
+improve 32
+board
+status
+trade Red Energy Wifi
+yes
+next
+roll
+7
+6
+red
+status

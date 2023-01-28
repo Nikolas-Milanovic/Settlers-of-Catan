@@ -1,0 +1,52 @@
+8
+20
+9
+27
+8
+15
+13
+37
+40
+22
+help
+load
+roll
+7
+16
+help
+status
+residences
+next
+load
+roll
+4
+status
+trade fake energy glass
+trade orange fake glass
+trade yellow glass heat
+yes
+trade blue heat glass
+yes
+next
+roll
+-1
+13
+5
+status
+trade orange glass heat
+improve 27
+improve 35
+improve 20
+build-road 47
+build-road 53
+fair
+roll
+trade blue energy glass
+yes
+status
+trade red glass brick
+no
+next
+load
+roll
+this
