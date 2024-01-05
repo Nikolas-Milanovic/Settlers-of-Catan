@@ -6,8 +6,6 @@ To play the game on a Mac or Linux computer:
 * Run the following command:  **./constructor**
 * If you see ./constructor: Permission denied, Run: chmod u+x ./constructor
 
-Note: Unfortunetly due to this being a common project used for this course I'm unable to share the source code.
-
 
 This was my OOP programing course's final project, where we received a 96%. It's based on the board game Settlers of Catan, except with a few adjustments to fit the University of Waterloo theme. The project is built with C++ and is played via the command line, example:
 
